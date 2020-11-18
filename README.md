@@ -3,7 +3,7 @@
 I'm web developer
 
 - 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Javascript and .NET
+- 🌱 I’m currently learning Angular and .NET
 - 💬 Ask me about anything you want
 - 📫 How to reach me: You can send me an email to [kayraberktuncer@gmail.com](mailto://kayraberktuncer@gmail.com)
 - ⚡ Fun fact: I'm not working.

@@ -7,7 +7,7 @@ I'm web developer
 - 💬 Ask me about anything you want
 - 📫 How to reach me: You can send me an email to [kayraberktuncer@gmail.com](mailto://kayraberktuncer@gmail.com)
 - ⚡ Fun fact: Actually, I'm not working.
-
+<hr>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/kayraberktuncer/">
     <img align="left" alt="Kayra's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
